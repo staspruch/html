@@ -1,0 +1,31 @@
+body {
+	text-align: center;
+	background-color: orange;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+h1 {
+	color: #6A0DAD;
+	padding-top: 15px;
+	font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+h2 {
+	color: #6A0DAD;
+	font-family: Arial, sans-serif;
+
+}
+h4 {
+	color: #6A0DAD;
+	padding-top: 5px;
+	font-family: Arial, sans-serif;
+	font-style: italic;
+}
+.my-purple-text {
+    color: #6A0DAD;
+	font-family: Arial, sans-serif;
+	font-style: italic;
+	font-size: 22px;
+	
+	
+}
